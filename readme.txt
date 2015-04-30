@@ -5,4 +5,4 @@ Git tracks changes of file.
 hehe
 哈哈
 dev branch
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
